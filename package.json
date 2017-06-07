@@ -1,6 +1,6 @@
 {
   "author":"Hydra Jack",
-  "name": "censorify",
+  "name": "censorifynima",
   "version": "0.0.1",
   "description": "审查文档中的敏感关键字",
   "main": "censortext",
